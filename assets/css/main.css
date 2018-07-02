@@ -1,7 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:700|Lato');
-html {
-  overflow-x: hidden;
-}
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url("https://use.typekit.net/qky0bwr.css");
+
 
 body {
   background: url(http://static.tumblr.com/gmlcyjd/3Nbmwf0m8/classy_fabric.png) repeat #102029;
@@ -20,9 +19,10 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family:'Josefin Sans', sans-serif;
+  font-family: 'futura-pt', sans-serif;
+  font-style: normal;
+  font-weight: 600;
   font-size: 36px;
-  font-weight: 400;
 }
 
 a {
@@ -757,7 +757,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 /* Modal Content/Box */
 .modal-content {
-    background-color: #fefefe;
+    background: url(http://static.tumblr.com/gmlcyjd/3Nbmwf0m8/classy_fabric.png) repeat #102029;
     margin: 10vh auto; /* 15% from the top and centered */
     padding: 20px;
     border: 1px solid #888;
