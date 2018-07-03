@@ -948,8 +948,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   background: #0073b1;
 }
 
-.footer-area .footer-social li .foursqare:hover {
-  background: #25a0ca;
+.footer-area .footer-social li .codepen:hover {
+  background: black;
 }
 
 .footer-area .footer-social li .spotify:hover {
